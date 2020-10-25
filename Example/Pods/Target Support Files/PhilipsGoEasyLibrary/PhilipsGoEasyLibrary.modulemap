@@ -1,0 +1,6 @@
+framework module PhilipsGoEasyLibrary {
+  umbrella header "PhilipsGoEasyLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

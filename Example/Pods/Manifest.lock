@@ -1,0 +1,16 @@
+PODS:
+  - PhilipsGoEasyLibrary (0.1.0)
+
+DEPENDENCIES:
+  - PhilipsGoEasyLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  PhilipsGoEasyLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PhilipsGoEasyLibrary: af24dff0e49be95a746f9a0a0d92390d0c03dbe0
+
+PODFILE CHECKSUM: d051261479b17acb3a16746a190d3549cd3c48d8
+
+COCOAPODS: 1.8.4

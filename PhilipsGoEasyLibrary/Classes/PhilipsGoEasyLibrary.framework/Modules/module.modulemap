@@ -1,0 +1,11 @@
+framework module PhilipsGoEasyLibrary {
+  umbrella header "PhilipsGoEasyLibrary.h"
+
+  export *
+  module * { export * }
+}
+
+module PhilipsGoEasyLibrary.Swift {
+    header "PhilipsGoEasyLibrary-Swift.h"
+    requires objc
+}
