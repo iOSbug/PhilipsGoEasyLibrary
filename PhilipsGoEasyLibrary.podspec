@@ -30,7 +30,8 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'PhilipsGoEasyLibrary/Classes/**/*'
+#  s.source_files = 'PhilipsGoEasyLibrary/Classes/PhilipsGoEasyLibrary.framework/*'
+  s.source_files = "PhilipsGoEasyLibrary", "PhilipsGoEasyLibrary/**/*.{h,swift}"
   
   # s.resource_bundles = {
   #   'PhilipsGoEasyLibrary' => ['PhilipsGoEasyLibrary/Assets/*.png']
