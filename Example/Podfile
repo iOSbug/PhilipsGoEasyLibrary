@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PhilipsGoEasyLibrary_Tests' do
+  pod 'PhilipsGoEasyLibrary', :path => '../'
+  
+  
+end
