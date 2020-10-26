@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PhilipsGoEasyLibrary'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'A short description of PhilipsGoEasyLibrary.'
 
 # This description is used to generate tags and improve search results.
@@ -32,7 +32,7 @@ TODO: Add long description of the pod here.
 
 #  s.source_files = 'PhilipsGoEasyLibrary/Classes/PhilipsGoEasyLibrary.framework/*'
   s.source_files = "PhilipsGoEasyLibrary", "PhilipsGoEasyLibrary/**/*.{h,swift}"
-  
+  s.vendored_frameworks = 'PhilipsGoEasyLibrary/Class/*.framework'
   # s.resource_bundles = {
   #   'PhilipsGoEasyLibrary' => ['PhilipsGoEasyLibrary/Assets/*.png']
   # }
