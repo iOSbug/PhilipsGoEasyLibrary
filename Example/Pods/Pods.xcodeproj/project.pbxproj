@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0EC4F87A25466C8A0070624F /* PhilipsGoEasyLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0EC4F87925466C8A0070624F /* PhilipsGoEasyLibrary.framework */; };
 		0EC713D422B8D06B0A1AE17BFB1FA7CE /* PhilipsGoEasyLibrary-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 633189D80D3D3081C833B60021A8FB89 /* PhilipsGoEasyLibrary-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		188580ED2545B2EF00B98065 /* PhilipsGoEasyLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 188580EC2545B2EF00B98065 /* PhilipsGoEasyLibrary.framework */; };
 		1C153A74BF576E6A39163D6781691948 /* PhilipsGoEasyLibrary-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C78BB4A5A0E006175B736CB06F1819EB /* PhilipsGoEasyLibrary-dummy.m */; };
 		1E6CF32BFC8F8ACFBCC385EB5A6849E6 /* Pods-PhilipsGoEasyLibrary_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1683DFB92384E3153F89940E93939F7E /* Pods-PhilipsGoEasyLibrary_Tests-dummy.m */; };
 		51ED04D49097F9B694AE058F64571DF4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
@@ -27,8 +27,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0EC4F87925466C8A0070624F /* PhilipsGoEasyLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = PhilipsGoEasyLibrary.framework; path = PhilipsGoEasyLibrary/Classes/PhilipsGoEasyLibrary.framework; sourceTree = "<group>"; };
 		1683DFB92384E3153F89940E93939F7E /* Pods-PhilipsGoEasyLibrary_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-PhilipsGoEasyLibrary_Tests-dummy.m"; sourceTree = "<group>"; };
-		188580EC2545B2EF00B98065 /* PhilipsGoEasyLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = PhilipsGoEasyLibrary.framework; path = PhilipsGoEasyLibrary/Classes/PhilipsGoEasyLibrary.framework; sourceTree = "<group>"; };
 		1AF84E91D39CAD5BC720067FDF195581 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		1B34BA2058C675C9543C4B4E7F825F37 /* PhilipsGoEasyLibrary-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "PhilipsGoEasyLibrary-Info.plist"; sourceTree = "<group>"; };
 		2F0F213F374CFA9C262290F3CEC63BAD /* Pods-PhilipsGoEasyLibrary_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PhilipsGoEasyLibrary_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -57,7 +57,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				188580ED2545B2EF00B98065 /* PhilipsGoEasyLibrary.framework in Frameworks */,
+				0EC4F87A25466C8A0070624F /* PhilipsGoEasyLibrary.framework in Frameworks */,
 				ECBE99FD380B67C067E060FD1123548F /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -150,7 +150,7 @@
 		CE3908B27ECF54140D72B33943BA0173 /* PhilipsGoEasyLibrary */ = {
 			isa = PBXGroup;
 			children = (
-				188580EC2545B2EF00B98065 /* PhilipsGoEasyLibrary.framework */,
+				0EC4F87925466C8A0070624F /* PhilipsGoEasyLibrary.framework */,
 				CA98CCC6094CAC5A52FFFFFC251DC23E /* Pod */,
 				5EACCC7883903D83773ECB7AF3E5BE0B /* Support Files */,
 			);
