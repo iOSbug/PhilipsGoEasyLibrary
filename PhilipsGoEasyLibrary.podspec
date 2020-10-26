@@ -21,20 +21,31 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/iOSbug/PhilipsGoEasyLibrary.git'
+  s.homepage         = 'https://github.com/iOSbug/PhilipsGoEasyLibrary'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '519955268@qq.com' => '519955268@qq.com' }
   s.source           = { :git => 'https://github.com/iOSbug/PhilipsGoEasyLibrary.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '9.0'
-
-#  s.source_files = 'PhilipsGoEasyLibrary/Classes/PhilipsGoEasyLibrary.framework/*'
-#  s.source_files = "PhilipsGoEasyLibrary", "PhilipsGoEasyLibrary/**/*.{h,swift}"
-#  s.vendored_frameworks = 'PhilipsGoEasyLibrary.framework'
   s.source_files = 'PhilipsGoEasyLibrary/Classes/**/*'
-  s.vendored_frameworks = 'PhilipsGoEasyLibrary/Classes/*.framework'
+  s.vendored_frameworks = "PhilipsGoEasyLibrary/Frameworks/*.framework"
+  s.ios.deployment_target = '9.0'
+  s.swift_version = '5.0'
+
+#  s.source_files = "PhilipsGoEasyLibrary", "PhilipsGoEasyLibrary/**/*.{h,swift}"
+  
+#s.source_files = "PhilipsGoEasyLibrary/**/PhilipsGoEasyLibrary.framework/Header", "*.{h,swift}"
+
+ 
+
+# s.vendored_frameworks = 'PhilipsGoEasyLibrary/Classes/PhilipsGoEasyLibrary.framework'
+
+#  s.source_files = 'PhilipsGoEasyLibrary/Classes/**/*'
+#  s.source_files = "PhilipsGoEasyLibrary", "PhilipsGoEasyLibrary/**/*.framework"
+
+#  s.vendored_frameworks = 'PhilipsGoEasyLibrary/Classes/PhilipsGoEasyLibrary.framework'
+  
   # s.resource_bundles = {
   #   'PhilipsGoEasyLibrary' => ['PhilipsGoEasyLibrary/Assets/*.png']
   # }
@@ -47,6 +58,5 @@ TODO: Add long description of the pod here.
   s.dependency 'FCUUID'
   s.dependency 'CocoaSecurity'
 
-  s.swift_version = '5.0'
   s.user_target_xcconfig = {'OTHER_LDFLAGS' => ['-lObjC','-all_load']}
 end
