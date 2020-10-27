@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PhilipsGoEasyLibrary'
-  s.version          = '1.0.3'
+  s.version          = '1.1.0'
   s.summary          = 'A short description of PhilipsGoEasyLibrary.'
 
 # This description is used to generate tags and improve search results.
@@ -54,5 +54,5 @@ TODO: Add long description of the pod here.
   #  s.pod_target_xcconfig = { 'VALID_ARCHS' => 'armv7 arm64' }
   s.pod_target_xcconfig = { 'VALID_ARCHS[sdk=iphonesimulator*]' => '' }
   
-  s.user_target_xcconfig = {'OTHER_LDFLAGS' => ['-lObjC','-all_load']}
+  #   s.user_target_xcconfig = {'OTHER_LDFLAGS' => ['-lObjC','-all_load']}
 end
