@@ -207,6 +207,12 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 
+SWIFT_CLASS("_TtC20PhilipsGoEasyLibrary11AFNetClient")
+@interface AFNetClient : NSObject
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC20PhilipsGoEasyLibrary11ResultModel")
 @interface ResultModel : NSObject
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
@@ -218,6 +224,14 @@ SWIFT_CLASS("_TtC20PhilipsGoEasyLibrary16DeviceBindStatus")
 @property (nonatomic, copy) NSString * _Nullable deviceId;
 @property (nonatomic, copy) NSString * _Nullable deviceType;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC20PhilipsGoEasyLibrary10ErrorModel")
+@interface ErrorModel : NSObject
+@property (nonatomic, copy) NSString * _Nullable eMessage;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
 @class SDKError;
