@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PhilipsGoEasyLibrary'
-  s.version          = '1.1.1'
+  s.version          = '1.1.2'
   s.summary          = 'A short description of PhilipsGoEasyLibrary.'
 
 # This description is used to generate tags and improve search results.
@@ -42,13 +42,13 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  s.frameworks   = 'NetworkExtension'
+  s.frameworks   = 'NetworkExtension','Foundation','CoreLocation'
   
-  #  s.dependency 'HandyJSON', '~> 5.0.3-beta'
-  #  s.dependency 'Alamofire'
-  #  s.dependency 'CocoaAsyncSocket'
-  #  s.dependency 'FCUUID'
-  #  s.dependency 'CocoaSecurity'
+    s.dependency 'HandyJSON', '~> 5.0.3-beta'
+    s.dependency 'Alamofire'
+    s.dependency 'CocoaAsyncSocket'
+    s.dependency 'FCUUID'
+    s.dependency 'CocoaSecurity'
     
   #  valid_archs = ['armv7s','arm64','armv7','arm64e']
   #  s.pod_target_xcconfig = { 'VALID_ARCHS' => 'armv7 arm64' }
