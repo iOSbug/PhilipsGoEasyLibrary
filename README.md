@@ -22,7 +22,7 @@ pod 'PhilipsGoEasyLibrary'
 
 ## Author
 
-519955268@qq.com, 519955268@qq.com
+
 
 ## License
 
