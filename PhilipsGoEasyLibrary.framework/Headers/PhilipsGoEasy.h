@@ -41,6 +41,11 @@ NS_ASSUME_NONNULL_BEGIN
  */
 + (NSString *)version;
 
+/**
+ *    日志显示
+ */
++ (void)setDeubugLog:(BOOL)open;
+
 @end
 
 NS_ASSUME_NONNULL_END

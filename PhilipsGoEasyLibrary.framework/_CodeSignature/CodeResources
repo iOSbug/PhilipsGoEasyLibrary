@@ -22,11 +22,11 @@
 		</data>
 		<key>Headers/PhilipsGoEasy.h</key>
 		<data>
-		3X83XLE5/It+DWUSUP4cfNQV2qk=
+		g5qJRR8O+eAS4Kcdnt1vCzN1+h8=
 		</data>
 		<key>Headers/PhilipsGoEasyLibrary-Swift.h</key>
 		<data>
-		ZWPnIasMGhatVYZIwMNKOqAdP8Q=
+		0gYMHElHPjee9VXVO3hfKUFPbqI=
 		</data>
 		<key>Headers/PhilipsGoEasyLibrary.h</key>
 		<data>
@@ -42,27 +42,27 @@
 		</data>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		Rj6W4TTSPp4vBuhgSxpsbldyHGg=
+		hNgARi8fXmTdgwxFyyKYvwGqdjg=
 		</data>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		Rj6W4TTSPp4vBuhgSxpsbldyHGg=
+		hNgARi8fXmTdgwxFyyKYvwGqdjg=
 		</data>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		xxHN7+P8EnRJiESOBYi2uRIoWqk=
+		wGRhQdiumVWWUgLc4leln5sGuPs=
 		</data>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		qh662gcpHonQHT5pxyZcdKD0EC0=
+		dQAMTSAb9u5ItRM0AqDo3Dfk+PA=
 		</data>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		xxHN7+P8EnRJiESOBYi2uRIoWqk=
+		wGRhQdiumVWWUgLc4leln5sGuPs=
 		</data>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		qh662gcpHonQHT5pxyZcdKD0EC0=
+		dQAMTSAb9u5ItRM0AqDo3Dfk+PA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -119,22 +119,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3X83XLE5/It+DWUSUP4cfNQV2qk=
+			g5qJRR8O+eAS4Kcdnt1vCzN1+h8=
 			</data>
 			<key>hash2</key>
 			<data>
-			uGOE/SL8BmTd7IH6OMXwqRrzguERd2XuEaW96LTFr/U=
+			p+ws7GdfjXdpVQC5OIANPgbEdkCzpybJbQPibczIkCY=
 			</data>
 		</dict>
 		<key>Headers/PhilipsGoEasyLibrary-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZWPnIasMGhatVYZIwMNKOqAdP8Q=
+			0gYMHElHPjee9VXVO3hfKUFPbqI=
 			</data>
 			<key>hash2</key>
 			<data>
-			IzxuqYjBTSorymO5JvSqTpaWpihLs5Z6QjaNUj6H9ek=
+			MIYHbKNGnMka5h9R9EhDNTQEBkd2Wb/AaqLSbV7KDPg=
 			</data>
 		</dict>
 		<key>Headers/PhilipsGoEasyLibrary.h</key>
@@ -163,66 +163,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Rj6W4TTSPp4vBuhgSxpsbldyHGg=
+			hNgARi8fXmTdgwxFyyKYvwGqdjg=
 			</data>
 			<key>hash2</key>
 			<data>
-			dxnDER6gE+2P1Sd6caPafOsoT7B2qaQxurBDhM6KpV8=
+			TCyAx4jVj0FRoPpltqolUgBu13nhE9Sd7G/Nd0Dhqz8=
 			</data>
 		</dict>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Rj6W4TTSPp4vBuhgSxpsbldyHGg=
+			hNgARi8fXmTdgwxFyyKYvwGqdjg=
 			</data>
 			<key>hash2</key>
 			<data>
-			dxnDER6gE+2P1Sd6caPafOsoT7B2qaQxurBDhM6KpV8=
+			TCyAx4jVj0FRoPpltqolUgBu13nhE9Sd7G/Nd0Dhqz8=
 			</data>
 		</dict>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xxHN7+P8EnRJiESOBYi2uRIoWqk=
+			wGRhQdiumVWWUgLc4leln5sGuPs=
 			</data>
 			<key>hash2</key>
 			<data>
-			LoxC2/1bxOFIpJ/PIWyez/UERQpxCL3W6ONObuby8tg=
+			uVyaKta21IqlfelmW2QJkygFuZWovVB/dNJ7uZbKPX4=
 			</data>
 		</dict>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qh662gcpHonQHT5pxyZcdKD0EC0=
+			dQAMTSAb9u5ItRM0AqDo3Dfk+PA=
 			</data>
 			<key>hash2</key>
 			<data>
-			tT1EKudrCy5QWKH33Im4YZGr/XQhqs0tbgaZaZfhulg=
+			QsZyZUqvjR6Z0AOsHBt3ClnHS68OuwCrVqTUQA2zlL4=
 			</data>
 		</dict>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xxHN7+P8EnRJiESOBYi2uRIoWqk=
+			wGRhQdiumVWWUgLc4leln5sGuPs=
 			</data>
 			<key>hash2</key>
 			<data>
-			LoxC2/1bxOFIpJ/PIWyez/UERQpxCL3W6ONObuby8tg=
+			uVyaKta21IqlfelmW2QJkygFuZWovVB/dNJ7uZbKPX4=
 			</data>
 		</dict>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qh662gcpHonQHT5pxyZcdKD0EC0=
+			dQAMTSAb9u5ItRM0AqDo3Dfk+PA=
 			</data>
 			<key>hash2</key>
 			<data>
-			tT1EKudrCy5QWKH33Im4YZGr/XQhqs0tbgaZaZfhulg=
+			QsZyZUqvjR6Z0AOsHBt3ClnHS68OuwCrVqTUQA2zlL4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

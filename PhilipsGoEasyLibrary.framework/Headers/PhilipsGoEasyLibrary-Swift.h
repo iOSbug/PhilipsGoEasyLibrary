@@ -255,6 +255,7 @@ SWIFT_CLASS("_TtC20PhilipsGoEasyLibrary13PHLSDKManager")
 @interface PHLSDKManager : NSObject
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) PHLSDKManager * _Nonnull shared;)
 + (PHLSDKManager * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
+@property (nonatomic) BOOL showDebugLog;
 - (void)asyncInit:(NSString * _Nonnull)appKey appSecret:(NSString * _Nonnull)appSecret complete:(void (^ _Nonnull)(id _Nonnull, SDKError * _Nonnull))complete;
 - (void)signIn:(NSString * _Nonnull)allyToken allyName:(NSString * _Nonnull)allyName complete:(void (^ _Nonnull)(id _Nonnull, SDKError * _Nonnull))complete;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
