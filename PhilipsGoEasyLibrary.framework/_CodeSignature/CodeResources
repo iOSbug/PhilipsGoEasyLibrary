@@ -26,43 +26,51 @@
 		</data>
 		<key>Headers/PhilipsGoEasyLibrary-Swift.h</key>
 		<data>
-		0gYMHElHPjee9VXVO3hfKUFPbqI=
+		NhvD6t1QbxrxVqGB7oME62InAlA=
 		</data>
 		<key>Headers/PhilipsGoEasyLibrary.h</key>
 		<data>
-		Q6PaQi0yWZCpk181JYJJ0EHlvAU=
+		oCvSEvWGPYY7zdP1gL61uv5pnIQ=
+		</data>
+		<key>Headers/PhilipsNetManager.h</key>
+		<data>
+		hfOpw2lszUc6XudwwJQW9iACXKA=
 		</data>
 		<key>Headers/PhilipsWifiLockBinder.h</key>
 		<data>
 		zxhFMdJJmc1R8gypRooolSvh/Po=
 		</data>
+		<key>Headers/SdcUrlConfig.h</key>
+		<data>
+		4IghZcF0qTdqIrSgGoMtsYot5jk=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		moXlXoviBrCcff3Ky6qs+hDCS+M=
+		OqGlYkKd1cwMaPOm1FGbczaKxs0=
 		</data>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		hNgARi8fXmTdgwxFyyKYvwGqdjg=
+		qd4cmBlF8WqVp+QoTlI6e5c1Sjs=
 		</data>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		hNgARi8fXmTdgwxFyyKYvwGqdjg=
+		qd4cmBlF8WqVp+QoTlI6e5c1Sjs=
 		</data>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		wGRhQdiumVWWUgLc4leln5sGuPs=
+		rdD4evMHIkbRkUPOASj37tun4jo=
 		</data>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		dQAMTSAb9u5ItRM0AqDo3Dfk+PA=
+		wyXUWjB9NZ35aFNJaaAc2tGgUCU=
 		</data>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		wGRhQdiumVWWUgLc4leln5sGuPs=
+		rdD4evMHIkbRkUPOASj37tun4jo=
 		</data>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		dQAMTSAb9u5ItRM0AqDo3Dfk+PA=
+		wyXUWjB9NZ35aFNJaaAc2tGgUCU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -130,22 +138,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0gYMHElHPjee9VXVO3hfKUFPbqI=
+			NhvD6t1QbxrxVqGB7oME62InAlA=
 			</data>
 			<key>hash2</key>
 			<data>
-			MIYHbKNGnMka5h9R9EhDNTQEBkd2Wb/AaqLSbV7KDPg=
+			D1/jLDqKYEPxtvd5Y27Q1f8bXi+rk8KmRwvaRVvbFKc=
 			</data>
 		</dict>
 		<key>Headers/PhilipsGoEasyLibrary.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Q6PaQi0yWZCpk181JYJJ0EHlvAU=
+			oCvSEvWGPYY7zdP1gL61uv5pnIQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			5yC1CjfqgSbPEudRiL1ni2anh5v+YGcj0bYClC/BUkc=
+			fbD4GD+MFGMFNKs/w2Cz8Ez0OkiU+G2TH4Hy9Q5ASsI=
+			</data>
+		</dict>
+		<key>Headers/PhilipsNetManager.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hfOpw2lszUc6XudwwJQW9iACXKA=
+			</data>
+			<key>hash2</key>
+			<data>
+			9BBvBMRtFWpFISf32PF27POADfQheDnaELjtyiPLRTc=
 			</data>
 		</dict>
 		<key>Headers/PhilipsWifiLockBinder.h</key>
@@ -159,70 +178,81 @@
 			0w5UxWitTrduFvF1YjAEz2BHl8nbyV5QAbKnOdh8rPg=
 			</data>
 		</dict>
+		<key>Headers/SdcUrlConfig.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4IghZcF0qTdqIrSgGoMtsYot5jk=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ns/0uxH6n/hsJItDl5B74qAtJjumLgI1U5OtDsrAbWs=
+			</data>
+		</dict>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hNgARi8fXmTdgwxFyyKYvwGqdjg=
+			qd4cmBlF8WqVp+QoTlI6e5c1Sjs=
 			</data>
 			<key>hash2</key>
 			<data>
-			TCyAx4jVj0FRoPpltqolUgBu13nhE9Sd7G/Nd0Dhqz8=
+			jZBkHsO94D6M7wVgu9xtJN3u0tGD9o1f/JJBnYAgw88=
 			</data>
 		</dict>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hNgARi8fXmTdgwxFyyKYvwGqdjg=
+			qd4cmBlF8WqVp+QoTlI6e5c1Sjs=
 			</data>
 			<key>hash2</key>
 			<data>
-			TCyAx4jVj0FRoPpltqolUgBu13nhE9Sd7G/Nd0Dhqz8=
+			jZBkHsO94D6M7wVgu9xtJN3u0tGD9o1f/JJBnYAgw88=
 			</data>
 		</dict>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wGRhQdiumVWWUgLc4leln5sGuPs=
+			rdD4evMHIkbRkUPOASj37tun4jo=
 			</data>
 			<key>hash2</key>
 			<data>
-			uVyaKta21IqlfelmW2QJkygFuZWovVB/dNJ7uZbKPX4=
+			JmY0G9Sx+5HKpmvb1cEWzvpKMe6aemZxGgD/xD70apI=
 			</data>
 		</dict>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dQAMTSAb9u5ItRM0AqDo3Dfk+PA=
+			wyXUWjB9NZ35aFNJaaAc2tGgUCU=
 			</data>
 			<key>hash2</key>
 			<data>
-			QsZyZUqvjR6Z0AOsHBt3ClnHS68OuwCrVqTUQA2zlL4=
+			QltB62TEv2+k+01XzYnwcPiGsoWVOOlPVc/PVChwKZs=
 			</data>
 		</dict>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wGRhQdiumVWWUgLc4leln5sGuPs=
+			rdD4evMHIkbRkUPOASj37tun4jo=
 			</data>
 			<key>hash2</key>
 			<data>
-			uVyaKta21IqlfelmW2QJkygFuZWovVB/dNJ7uZbKPX4=
+			JmY0G9Sx+5HKpmvb1cEWzvpKMe6aemZxGgD/xD70apI=
 			</data>
 		</dict>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dQAMTSAb9u5ItRM0AqDo3Dfk+PA=
+			wyXUWjB9NZ35aFNJaaAc2tGgUCU=
 			</data>
 			<key>hash2</key>
 			<data>
-			QsZyZUqvjR6Z0AOsHBt3ClnHS68OuwCrVqTUQA2zlL4=
+			QltB62TEv2+k+01XzYnwcPiGsoWVOOlPVc/PVChwKZs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

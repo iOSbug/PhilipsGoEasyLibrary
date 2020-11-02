@@ -235,8 +235,20 @@ SWIFT_CLASS("_TtC20PhilipsGoEasyLibrary10ErrorModel")
 @end
 
 @class SDKError;
+
+/// 设备接入
+SWIFT_CLASS("_TtC20PhilipsGoEasyLibrary13PHLDevManager")
+@interface PHLDevManager : NSObject
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) PHLDevManager * _Nonnull shared;)
++ (PHLDevManager * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
+- (void)getSdcUrlWithComplete:(void (^ _Nonnull)(id _Nonnull, SDKError * _Nonnull))complete;
+- (void)unbindDeviceWithDeviceId:(NSString * _Nonnull)deviceId deviceType:(NSString * _Nonnull)deviceType complete:(void (^ _Nonnull)(id _Nonnull, SDKError * _Nonnull))complete;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
 @class WiFILockWiFiListModel;
 
+/// Wi-Fi锁绑定
 SWIFT_CLASS("_TtC20PhilipsGoEasyLibrary14PHLPairManager")
 @interface PHLPairManager : NSObject
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) PHLPairManager * _Nonnull shared;)
@@ -251,6 +263,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) PHLPairManag
 @end
 
 
+/// sdk初始化
 SWIFT_CLASS("_TtC20PhilipsGoEasyLibrary13PHLSDKManager")
 @interface PHLSDKManager : NSObject
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) PHLSDKManager * _Nonnull shared;)
