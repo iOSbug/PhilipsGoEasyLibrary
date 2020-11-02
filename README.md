@@ -67,6 +67,14 @@ SDK编译配置
 - (void)requestWifiConfig:(Hotspot *)hotspot
                  password:(NSString *)password
                  callback:(CallbackHandler)callback；
+                 
+ • 获取设备接入地址
+ - (void)getSdcUrl:(CallbackHandler)callback;
+ 
+ •  解绑设备
+ - (void)unbindDevice:(NSString *)deviceId
+          deviceType:(NSString *)deviceType
+            callback:(CallbackHandler)callback;
 
 ## Installation
 
