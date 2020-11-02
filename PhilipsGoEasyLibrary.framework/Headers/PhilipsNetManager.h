@@ -27,7 +27,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)getSdcUrl:(CallbackHandler)callback;
 
 /**
-*    配置无线热点网络参数
+*    解绑设备
 *
 *    @param     deviceId          设备SN
 *    @param     deviceType      设备类型

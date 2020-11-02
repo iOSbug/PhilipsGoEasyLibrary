@@ -34,7 +34,7 @@
 		</data>
 		<key>Headers/PhilipsNetManager.h</key>
 		<data>
-		hfOpw2lszUc6XudwwJQW9iACXKA=
+		sPvtqo9lwC5CtP5C+q8H+sHRZKk=
 		</data>
 		<key>Headers/PhilipsWifiLockBinder.h</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		OqGlYkKd1cwMaPOm1FGbczaKxs0=
+		pGl5LYc37K9EeS3CFmJvodMV1cQ=
 		</data>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
@@ -160,11 +160,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hfOpw2lszUc6XudwwJQW9iACXKA=
+			sPvtqo9lwC5CtP5C+q8H+sHRZKk=
 			</data>
 			<key>hash2</key>
 			<data>
-			9BBvBMRtFWpFISf32PF27POADfQheDnaELjtyiPLRTc=
+			G3RPrhfacMdKKd8mt1U1GxKvau3SZjnRWt++0JepcZ8=
 			</data>
 		</dict>
 		<key>Headers/PhilipsWifiLockBinder.h</key>
