@@ -68,6 +68,8 @@ SDK编译配置
                  password:(NSString *)password
                  callback:(CallbackHandler)callback；
                  
+ 3. 设备接入
+                 
  • 获取设备接入地址
  - (void)getSdcUrl:(CallbackHandler)callback;
  
