@@ -17,7 +17,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property(nonatomic, readonly) BOOL open;
 
 /// 热点ssid
-@property(nonatomic, readonly, nullable) NSString *ssid;
+@property(nonatomic, nullable) NSString *ssid;
 
 /// 信号强度
 @property(nonatomic, readonly) NSInteger signal;
