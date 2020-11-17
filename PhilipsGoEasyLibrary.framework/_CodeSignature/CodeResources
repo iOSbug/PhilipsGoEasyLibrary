@@ -26,7 +26,7 @@
 		</data>
 		<key>Headers/PhilipsGoEasyLibrary-Swift.h</key>
 		<data>
-		NhvD6t1QbxrxVqGB7oME62InAlA=
+		vxLmWjYSudT+Zkld7IIKjPkriJ0=
 		</data>
 		<key>Headers/PhilipsGoEasyLibrary.h</key>
 		<data>
@@ -46,31 +46,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		pGl5LYc37K9EeS3CFmJvodMV1cQ=
+		IcHZO2Iy2VrS0c1iTm0ugoSq3lI=
 		</data>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		4BwmTJwfKToOpkYhQNIfq7oj1qk=
+		ZytCHgAQW0WspI4i0d6i9FNv660=
 		</data>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		4BwmTJwfKToOpkYhQNIfq7oj1qk=
+		ZytCHgAQW0WspI4i0d6i9FNv660=
 		</data>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		wIBxtrH1IamL4uo5y18F1N4aCKw=
+		XLHaWYt61KeXfHBE4McB3lWxmyY=
 		</data>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		lkiP92ouZH504b8qhIb3scaeUN8=
+		R0GTCmRV7P0XkTrkj/aNhGzmr+M=
 		</data>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		wIBxtrH1IamL4uo5y18F1N4aCKw=
+		XLHaWYt61KeXfHBE4McB3lWxmyY=
 		</data>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		lkiP92ouZH504b8qhIb3scaeUN8=
+		R0GTCmRV7P0XkTrkj/aNhGzmr+M=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -138,11 +138,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NhvD6t1QbxrxVqGB7oME62InAlA=
+			vxLmWjYSudT+Zkld7IIKjPkriJ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			D1/jLDqKYEPxtvd5Y27Q1f8bXi+rk8KmRwvaRVvbFKc=
+			B0ZhICi1FPEslJQsYkSc5qCpABkPplTdVrjiDOn6lF4=
 			</data>
 		</dict>
 		<key>Headers/PhilipsGoEasyLibrary.h</key>
@@ -193,66 +193,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4BwmTJwfKToOpkYhQNIfq7oj1qk=
+			ZytCHgAQW0WspI4i0d6i9FNv660=
 			</data>
 			<key>hash2</key>
 			<data>
-			ruRZRY9/8HWG7RtSO068fIRkkNmOKVpVcgbJatxUdEE=
+			nMfvfRanTTkBhFXbONhRBSCBsOIJSi4O9QPj/1rQs4g=
 			</data>
 		</dict>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4BwmTJwfKToOpkYhQNIfq7oj1qk=
+			ZytCHgAQW0WspI4i0d6i9FNv660=
 			</data>
 			<key>hash2</key>
 			<data>
-			ruRZRY9/8HWG7RtSO068fIRkkNmOKVpVcgbJatxUdEE=
+			nMfvfRanTTkBhFXbONhRBSCBsOIJSi4O9QPj/1rQs4g=
 			</data>
 		</dict>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wIBxtrH1IamL4uo5y18F1N4aCKw=
+			XLHaWYt61KeXfHBE4McB3lWxmyY=
 			</data>
 			<key>hash2</key>
 			<data>
-			u5h55VjpcJ0G4CknlllZx/7SSBLd/S4h9lNK4Y+yWvg=
+			VjR3oz47g53Atma77ZSgKNvIfvoTh8glzt2wr30+KMs=
 			</data>
 		</dict>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lkiP92ouZH504b8qhIb3scaeUN8=
+			R0GTCmRV7P0XkTrkj/aNhGzmr+M=
 			</data>
 			<key>hash2</key>
 			<data>
-			LKgts0OPwwwAXeYpU9tLdQ8/GH6nT3iP9GymmalC7q8=
+			QqA1dwLWG7cHfN2sCCOLfwzT+02pidnFn98XfE3uje0=
 			</data>
 		</dict>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wIBxtrH1IamL4uo5y18F1N4aCKw=
+			XLHaWYt61KeXfHBE4McB3lWxmyY=
 			</data>
 			<key>hash2</key>
 			<data>
-			u5h55VjpcJ0G4CknlllZx/7SSBLd/S4h9lNK4Y+yWvg=
+			VjR3oz47g53Atma77ZSgKNvIfvoTh8glzt2wr30+KMs=
 			</data>
 		</dict>
 		<key>Modules/PhilipsGoEasyLibrary.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lkiP92ouZH504b8qhIb3scaeUN8=
+			R0GTCmRV7P0XkTrkj/aNhGzmr+M=
 			</data>
 			<key>hash2</key>
 			<data>
-			LKgts0OPwwwAXeYpU9tLdQ8/GH6nT3iP9GymmalC7q8=
+			QqA1dwLWG7cHfN2sCCOLfwzT+02pidnFn98XfE3uje0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
