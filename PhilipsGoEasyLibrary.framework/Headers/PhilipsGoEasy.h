@@ -46,6 +46,12 @@ NS_ASSUME_NONNULL_BEGIN
  */
 + (void)setDeubugLog:(BOOL)open;
 
+
+/**
+ *    日志存储
+ */
++ (void)saveDeubugLog:(BOOL)open;
+
 @end
 
 NS_ASSUME_NONNULL_END
