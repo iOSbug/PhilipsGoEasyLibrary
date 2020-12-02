@@ -52,6 +52,11 @@ NS_ASSUME_NONNULL_BEGIN
  */
 + (void)saveDeubugLog:(BOOL)open;
 
+/**
+ *    启用测试服务器(默认正式环境，启用测试环境时，必须在asyncInit前调用)
+ */
++ (void)setDevEnvironment:(BOOL)open;
+
 @end
 
 NS_ASSUME_NONNULL_END

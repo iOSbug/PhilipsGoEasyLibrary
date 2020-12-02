@@ -77,6 +77,16 @@ NS_ASSUME_NONNULL_BEGIN
                  callback:(CallbackHandler)callback;
 
 
+/**
+*    解绑设备
+*
+*    @param     deviceId        设备sn
+*    @param     deviceType   设备类型
+*    @param     callback        回调
+*/
+- (void)unbindDevice:(NSString *)deviceId
+          deviceType:(NSString *)deviceType
+            callback:(CallbackHandler)callback;
 @end
 
 NS_ASSUME_NONNULL_END

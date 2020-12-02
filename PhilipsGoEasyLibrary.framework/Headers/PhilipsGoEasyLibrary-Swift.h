@@ -270,6 +270,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) PHLSDKManage
 + (PHLSDKManager * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 @property (nonatomic) BOOL showDebugLog;
 @property (nonatomic) BOOL saveDebugLog;
+@property (nonatomic) BOOL isdevEnvir;
 - (void)asyncInit:(NSString * _Nonnull)appKey appSecret:(NSString * _Nonnull)appSecret complete:(void (^ _Nonnull)(id _Nonnull, SDKError * _Nonnull))complete;
 - (void)signIn:(NSString * _Nonnull)allyToken allyName:(NSString * _Nonnull)allyName complete:(void (^ _Nonnull)(id _Nonnull, SDKError * _Nonnull))complete;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
